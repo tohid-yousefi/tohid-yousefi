@@ -1,7 +1,31 @@
-<article class="markdown-body entry-content container-lg" itemprop="text"><h1 align="center" dir="auto"><a id="user-content-hi--im-salih-damar" class="anchor" aria-hidden="true" href="#hi--im-salih-damar"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Tohid Yousefi</h1>
-<h3 align="center" dir="auto"><a id="user-content-java-developer" class="anchor" aria-hidden="true" href="#java-developer"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Data Scientist</h3>
-<h3 align="left" dir="auto"><a id="user-content-connect-with-me" class="anchor" aria-hidden="true" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Connect with me:</h3>
-<p align="left" dir="auto">
-<a href="https://www.linkedin.com/in/tohid-yousefi/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tohid-yousefi/" height="30" width="40" style="max-width: 100%;"></a>
+
+<!-- HEADER -->
+<h3 align="center">
+     <br>Welcome to my GitHub!
+</h3>
+
+<h1 align="center">Hi there, I'm Tohid Yousefi </a> <img src="https://user-images.githubusercontent.com/64318469/176737130-33ef105d-385a-43e4-a68e-33ac3f19ab12.gif" height="32" /></h1>
+
+![](https://komarev.com/ghpvc/?username=tohid-yousefi)
+
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=tohid-yousefi&show_icons=true&count_private=true&hide=contribs,issues" alt="tohid-yousefi's github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tohid-yousefi&layout=compact&hide=html,css" alt="ETop Langs" />
 </p>
-</article>
+
+My name is Tohid Yousefi and I am studying computer engineering (Ph.D.) at Dokuz Eylül University in Turkey. My field of work is mostly meta-heuristic algorithms. I am also very interested in machine learning algorithms, Python and MATLAB programming languages, and data science.
+
+- [LinkedIn](https://www.linkedin.com/in/tohid-yousefi/)
+- [Personal WebPage](http://tohid.com.tr)
+- [Hackerrank](https://www.hackerrank.com/tohid_yousefi?hr_r=1)
+- [Stackoverflow](https://stackoverflow.com/users/20004533/tohid-yousefi)
+- [Researchgate](https://www.researchgate.net/profile/Tohid-Yousefi)
+- [Google Scholar](https://scholar.google.com/citations?user=hAmnIfgAAAAJ&hl=en&oi=ao)
+- [Email](mailto:tohid.yousefi@hotmail.com)
+
+
+![Profile views](https://gpvc.arturio.dev/tohid-yousefi)
+![trophy](https://github-profile-trophy.vercel.app/?username=tohid-yousefi)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tohid-yousefi&show_icons=true)     
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tohid-yousefi)  
+![GitHub metrics](https://metrics.lecoq.io/tohid-yousefi)
