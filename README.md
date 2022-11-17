@@ -14,6 +14,7 @@ My name is Tohid Yousefi and I am studying computer engineering (Ph.D.) at Dokuz
 - [LinkedIn](https://www.linkedin.com/in/tohid-yousefi/)
 - [Personal WebPage](http://tohid.com.tr)
 - [Hackerrank](https://www.hackerrank.com/tohid_yousefi?hr_r=1)
+- [Kaggle](https://www.kaggle.com/tohidyousefi)
 - [Stackoverflow](https://stackoverflow.com/users/20004533/tohid-yousefi)
 - [Researchgate](https://www.researchgate.net/profile/Tohid-Yousefi)
 - [Google Scholar](https://scholar.google.com/citations?user=hAmnIfgAAAAJ&hl=en&oi=ao)
