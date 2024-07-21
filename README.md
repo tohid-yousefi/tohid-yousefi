@@ -8,7 +8,11 @@
 
 ![Profile views](https://gpvc.arturio.dev/tohid-yousefi)
 
-My name is Tohid Yousefi and I am studying computer engineering (Ph.D.) at Dokuz Eylül University in Turkey. My field of work is mostly meta-heuristic algorithms. I am also very interested in machine learning algorithms, Python and MATLAB programming languages, and data science.
+My name is Tohid Yousefi. I am currently completing my Ph.D. in Computer Engineering at Dokuz Eylül University in Turkey. Throughout my software career, I have worked with numerous programming languages and developed projects for various companies. This experience has allowed me to gain extensive knowledge in software development and successfully execute a wide range of projects.
+
+In recent years, I founded my own software company and established a startup called DataNovin. DataNovin specializes in providing software development and consulting services and serves clients in multiple countries around the world. Together with my dedicated software team, we deliver customer-focused solutions and develop innovative projects.
+
+Our software and consulting services are tailored to meet the specific needs of our clients, offering high-quality and sustainable solutions. At DataNovin, we strive to push the boundaries of technology, maintain the highest level of customer satisfaction, and position ourselves as leaders in the industry.
 
 
 - [LinkedIn](https://www.linkedin.com/in/tohid-yousefi/)
